@@ -1,14 +1,15 @@
-# pasos para iniciar 
+# Pasos para iniciar 
 
 - python app.py
 
-# librerias instaladas
+# Librerias instaladas
 
 - python -m pip install flask-sqlalchemy o pip install flask-sqlalchemy
 - python -m pip install python-dotenv o pip install python-dotenv
 - python -m pip install mysqlclient o pip install mysqlclient
+- pip install pymysql
 
-# puerto de la bdd
+# Puerto de la bdd
 
 - 3306
 
